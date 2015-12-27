@@ -1,0 +1,26 @@
+{
+  "name": "tubular",
+  "homepage": "https://github.com/delboy1978uk/tubular",
+  "authors": [
+    "Derek Stephen McLean <delboy1978uk@gmail.com>"
+  ],
+  "description": "A jQuery plugin to put a YouTube vid in your background div.",
+  "main": "tubular-1.0.1.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "youtube",
+    "video",
+    "background"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
