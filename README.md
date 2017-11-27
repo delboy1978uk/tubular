@@ -16,6 +16,7 @@ $().ready(function() {
 });
 ```
 ## Options
+```
 * ratio: 16/9 // usually either 4/3 or 16/9 -- tweak as needed
 * videoId: 'ZCAnLxRvNNc' // toy robot in space is a good default, no?
 * mute: true
@@ -29,6 +30,4 @@ $().ready(function() {
 * volumeDownClass: 'tubular-volume-down'
 * increaseVolumeBy: 10 // increment value; volume range is 1-100
 * start: 0 // starting position in seconds
-
-
-
+```
